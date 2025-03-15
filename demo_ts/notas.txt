@@ -1,0 +1,6 @@
+comandos
+
+tsc --init
+tsc main.ts
+tsc --watch
+node dist/main.js
